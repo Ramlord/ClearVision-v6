@@ -19,7 +19,7 @@
 [![Issues][issues-badge]][issues-link]
 [![Pull Requests][prs-badge]][prs-link]
 
-![v6 Sapphire](https://imgur.com/a/m0AF7lX)
+![v6 Sapphire](https://i.imgur.com/kLGoCAx.png)
 
 </div>
 
