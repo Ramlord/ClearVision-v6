@@ -22,8 +22,11 @@
 ![v6 Sapphire](https://imgur.com/a/m0AF7lX)
 
 </div>
+
 ## Fork Info
+
 Brings Back the Old Colors and integrates some features of Gibbu's Frosted into the Theme
+
 ## Installing
 Download the theme file and move it into your [BetterDiscord](https://betterdiscord.net) themes folder:
 
